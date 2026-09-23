@@ -2,7 +2,7 @@ import json
 from pydantic import BaseModel, EmailStr, Field, ValidationError
 
 
-with open("student.json", "r",encoding="utf-8") as f:
+with open("student.json", "r", encoding="utf-8") as f:
     data = json.load(f)
 
 
