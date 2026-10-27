@@ -1,0 +1,872 @@
+CHAPTER I
+CHAPTER 2
+CHAPTER 3
+CHAPTER IV
+CHAPTER V
+CHAPTER VI
+CHAPTER VII
+CHAPTER VIII
+CHAPTER IX
+CHAPTER X
+CHAPTER XI
+CHAPTER XII
+CHAPTER XIII
+CHAPTER XIV
+CHAPTER XV
+CHAPTER XVI
+Star Maker
+Olaf Stapledon
+1937
+PREFACE
+AT a moment when Europe is in danger of a catastrophe worse than that of 1914 a book like this may be
+condemned as a distraction from the desperately urgent defence of civilization against modern barbarism.
+Year by year, month by month, the plight of our fragmentary and precarious civilization becomes more
+serious. Fascism abroad grows more bold and ruthless in its foreign ventures, more tyrannical toward its own
+citizens, more barbarian in its contempt for the life of the mind. Even in our own country we have reason to
+Star Maker 1
+fear a tendency toward militarization and the curtailment of civil liberty. Moreover, while the decades pass, no
+resolute step is taken to alleviate the injustice of our social order. Our outworn economic system dooms
+millions to frustration.
+In these conditions it is difficult for writers to pursue their calling at once with courage and with balanced
+judgment. Some merely shrug their shoulders and withdraw from the central struggle of our age. These, with
+their minds closed against the world's most vital issues, inevitably produce works which not only have no
+depth of significance for their contemporaries but also are subtly insincere. For these writers must consciously
+or unconsciously contrive to persuade themselves either that the crisis in human affairs does not exist, or that
+it is less important than their own work, or that it is anyhow not their business. But the crisis does exist, is of
+supreme importance, and concerns us all. Can anyone who is at all intelligent and informed hold the contrary
+without self-deception?
+Yet I have a lively sympathy with some of those "intellectuals" who declare that they have no useful
+contribution to make to the struggle, and therefore had better not dabble in it. I am, in fact, one of them. In our
+defense I should say that, though we are inactive or ineffective as direct supporters of the cause, we do not
+ignore it. Indeed, it constantly, obsessively, holds our attention. But we are convinced by prolonged trial and
+error that the most useful service open to us is indirect. For some writers the case is different. Gallantly
+plunging into the struggle, they use their powers to spread urgent propaganda, or they even take up arms in the
+cause. If they have suitable ability, and if the particular struggle in which they serve is in fact a part of the
+great enterprise of defending (or creating) civilization, they may, of course, do valuable work. In addition they
+may gain great wealth of experience and human sympathy, thereby immensely increasing their literary power.
+But the very urgency of their service may tend to blind them to the importance of maintaining and extending,
+even in this age of crisis, what may be called metaphorically the "self-critical self-consciousness of the human
+species," or the attempt to see man's life as a whole in relation to the rest of things. This involves the will to
+regard all human affairs and ideals and theories with as little human prejudice as possible. Those who are in
+the thick of the struggle inevitably tend to become, though in a great and just cause, partisan. They nobly
+forgo something of that detachment, that power of cold assessment, which is, after all, among the most
+valuable human capacities. In their case this is perhaps as it should be; for a desperate struggle demands less
+of detachment than of devotion. But some who have the cause at heart must serve by striving to maintain,
+along with human loyalty, a more dispassionate spirit. And perhaps the attempt to see our turbulent world
+against a background of stars may, after all, increase, not lessen the significance of the present human crisis. It
+may also strengthen our charity toward one another.
+In this belief I have tried to construct an imaginative sketch of the dread but vital whole of things. I know well
+that it is a ludicrously inadequate and in some ways a childish sketch, even when regarded from the angle of
+contemporary human experience. In a calmer and a wiser age it might well seem crazy. Yet in spite of its
+crudity, and in spite of its remoteness, it is perhaps not wholly irrelevant.
+At the risk of raising thunder both on the Left and on the Right, I have occasionally used certain ideas and
+words derived from religion, and I have tried to interpret them in relation to modern needs. The valuable,
+though much damaged words "spiritual" and "worship," which have become almost as obscene to the Left as
+the good old sexual words are to the Right, are here intended to suggest an experience which the Right is apt
+to pervert and the Left to misconceive. This experience, I should say, involves detachment from all private, all
+social, all racial ends; not in the sense that it leads a man to reject them, but that it makes him prize them in a
+new way. The "spiritual life" seems to be in essence the attempt to discover and adopt the attitude which is in
+fact appropriate to our experience as a whole, just as admiration is felt to be in fact appropriate toward a
+well-grown human being. This enterprise can lead to an increased lucidity and finer temper of consciousness,
+and therefore can have a great and beneficial effect on behavior. Indeed, if this supremely humanizing
+experience does not produce, along with a kind of piety toward fate, the resolute will to serve our waking
+humanity, it is a mere sham and a snare.
+Olaf Stapledon 2
+Before closing this preface I must express my gratitude to Professor L. C. Martin, Mr. L. H. Myers, and Mr.
+E. V. Rieu, for much helpful and sympathetic criticism, in consequence of which I rewrote many chapters.
+Even now I hesitate to associate their names with such an extravagant work. Judged by the standards of the
+Novel, it is remarkably bad. In fact, it is no novel at all.
+Certain ideas about artificial planets were suggested by Mr. J. D. Bernal's fascinating little book The World,
+the Flesh, and the Devil. I hope he will not strongly disapprove of my treatment of them.
+My wife I must thank both for work on the proofs and for being herself.
+At the end of the book I have included a note on Magnitude, which may be helpful to readers unfamiliar with
+astronomy. The very sketchy time scales may amuse some.
+O. S. March 1937
+Olaf Stapledon 3
+CHAPTER I
+THE EARTH
+1. THE STARTING POINT
+ONE night when I had tasted bitterness I went out on to the hill. Dark heather checked my feet. Below
+marched the suburban lamps. Windows, their curtains drawn, were shut eyes, inwardly watching the lives of
+dreams. Beyond the sea's level darkness a lighthouse pulsed. Overhead, obscurity. I distinguished our own
+house, our islet in the tumultuous and bitter currents of the world. There, for a decade and a half, we two, so
+different in quality, had grown in and in to one another, for mutual support and nourishment, in intricate
+symbiosis. There daily we planned our several undertakings, and recounted the day's oddities and vexations.
+There letters piled up to be answered, socks to be darned. There the children were born, those sudden new
+lives. There, under that roof, our own two lives, recalcitrant sometimes to one another, were all the while
+thankfully one, one larger, more conscious life than either alone.
+All this, surely, was good. Yet there was bitterness. And bitterness not only invaded us from the world; it
+welled up also within our own magic circle. For horror at our futility, at our own unreality, and not only at the
+world's delirium, had driven me out on to the hill.
+We were always hurrying from one little urgent task to another, but the upshot was insubstantial. Had we,
+perhaps, misconceived our whole existence? Were we, as it were, living from false premises? And in
+particular, this partnership of ours, this seemingly so well-based fulcrum for activity in the world, was it after
+all nothing but a little eddy of complacent and ingrown domesticity, ineffectively whirling on the surface of
+the great flux, having in itself no depth of being, and no significance? Had we perhaps after all deceived
+ourselves? Behind those rapt windows did we, like so many others, in-deed live only a dream? In a sick world
+even the hale are sick. And we two, spinning our little life mostly by rote, sel-dom with clear cognizance,
+seldom with firm intent, were products of a sick world.
+Yet this life of ours was not all sheer and barren fantasy. Was it not spun from the actual fibres of reality,
+which we gathered in with all the comings and goings through our door, all our traffic with the suburb and the
+city and with remoter cities, and with the ends of the earth? And were we not spinning together an authentic
+expression of our own nature? Did not our life issue daily as more or less firm threads of active living, and
+mesh itself into the growing web, the intricate, ever-proliferating pattern of mankind?
+I considered "us" with quiet interest and a kind of amused awe. How could I describe our relationship even to
+myself without either disparaging it or insulting it with the tawdry decoration of sentimentality? For this our
+delicate balance of dependence and independence, this coolly critical, shrewdly ridiculing, but loving mutual
+contact, was surely a microcosm of true community, was after all in its simple style an actual and living
+example of that high goal which the world seeks.
+The whole world? The whole universe? Overhead, obscurity unveiled a star. One tremulous arrow of light,
+projected how many thousands of years ago, now stung my nerves with vision, and my heart with fear. For in
+such a universe as this what significance could there be in our fortuitous, our frail, our evanescent
+community?
+But now irrationally I was seized with a strange worship, not, surely of the star, that mere furnace which mere
+distance falsely sanctified, but of something other, which the dire contrast of the star and us signified to the
+heart. Yet what, what could thus be signified? Intellect, peering beyond the star, discovered no Star Maker,
+but only darkness; no Love, no Power even, but only Nothing. And yet the heart praised.
+CHAPTER I 4
+Impatiently I shook off this folly, and reverted from the inscrutable to the familiar and the concrete. Thrusting
+aside worship, and fear also and bitterness, I determined to examine more coldly this remarkable "us," this
+surprisingly impressive datum, which to ourselves remained basic to the universe, though in relation to the
+stars it appeared so slight a thing.
+Considered even without reference to our belittling cosmical background, we were after all insignificant,
+perhaps ridiculous. We were such a commonplace occurrence, so trite, so respectable. We were just a married
+couple, making shift to live together without undue strain. Marriage in our time was suspect. And ours, with
+its trivial romantic origin, was doubly suspect.
+We had first met when she was a child. Our eyes encountered. She looked at me for a moment with quiet
+attention; even, I had romantically imagined, with obscure, deep-lying recognition. I, at any rate, recognized
+in that look (so I persuaded myself in my fever of adolescence) my destiny. Yes! How predestinate had
+seemed our union! Yet now, in retrospect, how accidental! True, of course, that as a long-married couple we
+fitted rather neatly, like two close trees whose trunks have grown upwards together as a single shaft, mutually
+distorting, but mutually supporting. Coldly I now assessed her as merely a useful, but often infuriating adjunct
+to my personal life. We were on the whole sensible companions. We left one another a certain freedom, and
+so we were able to endure our proximity.
+Such was our relationship. Stated thus it did not seem very significant for the understanding of the universe.
+Yet in my heart I knew that it was so. Even the cold stars, even the whole cosmos with all its inane
+immensities could not convince me that this our prized atom of community, imperfect as it was, short-lived as
+it must be, was not significant.
+But could this indescribable union of ours really have any significance at all beyond itself? Did it, for
+instance, prove that the essential nature of all human beings was to love, rather than to hate and fear? Was it
+evidence that all men and women the world over, though circumstance might prevent them, were at heart
+capable of supporting a world-wide, love-knit community? And further, did it, being itself a product of the
+cosmos, prove that love was in some way basic to the cosmos itself? And did it afford, through its own felt
+intrinsic excellence, some guarantee that we two, its frail supporters, must in some sense have eternal life?
+Did it, in fact, prove that love was God, and God awaiting us in his heaven?
+No! Our homely, friendly, exasperating, laughter-making, undecorated though most prized community of
+spirit proved none of these things. It was no certain guarantee of anything but its own imperfect rightness. It
+was nothing but a very minute, very bright epitome of one out of the many potentialities of existence. I
+remembered the swarms of the unseeing stars. I remembered the tumult of hate and fear and bitterness which
+is man's world. I remembered, too, our own not infrequent discordancy. And I reminded myself that we
+should very soon vanish like the flurry that a breeze has made on still water.
+Once more there came to me a perception of the strange contrast of the stars and us. The incalculable potency
+of the cosmos mysteriously enhanced the Tightness of our brief spark of community, and of mankind's brief,
+uncertain venture. And these in turn quickened the cosmos.
+I sat down on the heather. Overhead obscurity was now in full retreat. In its rear the freed population of the
+sky sprang out of hiding, star by star.
+On every side the shadowy hills or the guessed, featureless sea extended beyond sight. But the hawk-flight of
+imagination followed them as they curved downward below the horizon. I perceived that I was on a little
+round grain of rock and metal, filmed with water and with air, whirling in sunlight and darkness. And on the
+skin of that little grain all the swarms of men, generation by generation, had lived in labor and blindness, with
+intermittent joy and intermittent lucidity of spirit. And all their history, with its folk-wanderings, its empires,
+its philosophies, its proud sciences, its social revolutions, its increasing hunger for community, was but a
+CHAPTER I 5
+flicker in one day of the lives of stars.
+If one could know whether among that glittering host there were here and there other spirit-inhabited grains of
+rock and metal, whether man's blundering search for wisdom and for love was a sole and insignificant tremor,
+or part of a universal movement!
+1. EARTH AMONG THE STARS
+Overhead obscurity was gone. From horizon to horizon the sky was an unbroken spread of stars. Two planets
+stared, unwinking. The more obtrusive of the constellations asserted their individuality. Orion's four-square
+shoulders and feet, his belt and sword, the Plough, the zigzag of Cassiopeia, the intimate Pleiades, all were
+duly patterned on the dark. The Milky Way, a vague hoop of light, spanned the sky.
+Imagination completed what mere sight could not achieve. Looking down, I seemed to see through a
+transparent planet, through heather and solid rock, through the buried graveyards of vanished species, down
+through the molten flow of basalt, and on into the Earth's core of iron; then on again, still seemingly
+downwards, through the southern strata to the southern ocean and lands, past the roots of gum trees and the
+feet of the inverted antipodeans, through their blue, sun-pierced awning of day, and out into the eternal night,
+where sun and stars are together. For there, dizzyingly far below me, like fishes in the depth of a lake, lay the
+nether constellations. The two domes of the sky were fused into one hollow sphere, star-peopled, black, even
+beside the blinding sun. The young moon was a curve of incandescent wire. The completed hoop of the Milky
+Way encircled the universe. In a strange vertigo, I looked for reassurance at the little glowing windows of our
+home. There they still were; and the whole suburb, and the hills. But stars shone through all. It was as though
+all terrestrial things were made of glass, or of some more limpid, more ethereal vitreosity. Faintly the church
+clock chimed for midnight. Dimly, receding, it tolled the first stroke.
+Imagination was now stimulated to a new, strange mode of perception. Looking from star to star, I saw the
+heaven no longer as a jeweled ceiling and floor, but as depth beyond flashing depth of suns. And though for
+the most part the great and familiar lights of the sky stood forth as our near neighbors, some brilliant stars
+were seen to be in fact remote and mighty, while some dim lamps were visible only because they were so
+near. On every side the middle distance was crowded with swarms and streams of stars. But even these now
+seemed near; for the Milky Way had receded into an incomparably greater distance. And through gaps in its
+nearer parts appeared vista beyond vista of luminous mists, and deep perspectives of stellar populations.
+The universe in which fate had set me was no spangled chamber, but a perceived vortex of star-streams. No! It
+was more. Peering between the stars into the outer darkness, I saw also, as mere flecks and points of light,
+other such vortices, such galaxies, sparsely scattered in the void, depth beyond depth, so far afield that even
+the eye of imagination could find no limits to the cosmical, the all-embracing galaxy of galaxies. The universe
+now appeared to me as a void wherein floated rare flakes of snow, each flake a universe.
+Gazing at the faintest and remotest of all the swarm of universes, I seemed, by hypertelescopic imagination, to
+see it as a population of suns; and near one of those suns was a planet, and on that planet's dark side a hill, and
+on that hill myself. For our astronomers assure us that in this boundless finitude which we call the cosmos the
+straight lines of light lead not to infinity but to their source. Then I remembered that, had my vision depended
+on physical light, and not on the light of imagination, the rays coming thus to me "round" the cosmos would
+have revealed, not myself, but events that had ceased long before the Earth, or perhaps even the Sun, was
+formed.
+But now, once more shunning these immensities, I looked again for the curtained windows of our home,
+which, though star-pierced, was still more real to me than all the galaxies. But our home had vanished, with
+the whole suburb, and the hills too, and the sea. The very ground on which I had been sitting was gone.
+Instead there lay far below me an insubstantial gloom. And I myself was seemingly disembodied, for I could
+CHAPTER I 6
+neither see nor touch my own flesh. And when I willed to move my limbs, nothing happened. I had no limbs.
+The familiar inner perceptions of my body, and the headache which had oppressed me since morning, had
+given way to a vague lightness and exhilaration.
+When I realized fully the change that had come over me, I wondered if I had died, and was entering some
+wholly unexpected new existence. Such a banal possibility at first exasperated me. Then with sudden dismay I
+understood that if indeed I had died I should not return to my prized, concrete atom of community. The
+violence of my distress shocked me. But soon I comforted myself with the thought that after all I was
+probably not dead, but in some sort of trance, from which I might wake at any minute. I resolved, therefore,
+not to be unduly alarmed by this mysterious change. With scientific interest I would observe all that happened
+to me.
+I noticed that the obscurity which had taken the place of the ground was shrinking and condensing. The nether
+stars were no longer visible through it. Soon the earth below me was like a huge circular table-top, a broad
+disc of darkness surrounded by stars. I was apparently soaring away from my native planet at incredible
+speed. The sun, formerly visible to imagination in the nether heaven, was once more physically eclipsed by
+the Earth. Though by now I must have been hundreds of miles above the ground, I was not troubled by the
+absence of oxygen and atmospheric pressure. I experienced only an increasing exhilaration and a delightful
+effervescence of thought. The extraordinary brilliance of the stars excited me. For, whether through the
+absence of obscuring air, or through my own increased sensitivity, or both, the sky had taken on an unfamiliar
+aspect. Every star had seemingly flared up into higher magnitude. The heavens blazed. The major stars were
+like the headlights of a distant car. The Milky Way, no longer watered down with darkness, was an encircling,
+granular river of light.
+Presently, along the Planet's eastern limb, now far below me, there appeared a faint line of luminosity; which,
+as I continued to soar, warmed here and there to orange and red. Evidently I was traveling not only upwards
+but eastwards, and swinging round into the day. Soon the sun leapt into view, devouring the huge crescent of
+dawn with its brilliance. But as I sped on, sun and planet were seen to drift apart, while the thread of dawn
+thickened into a misty breadth of sunlight. This increased, like a visibly waxing moon, till half the planet was
+illuminated. Between the areas of night and day, a belt of shade, warm-tinted, broad as a sub-continent, now
+marked the area of dawn. As I continued to rise and travel eastwards, I saw the lands swing westward along
+with the day, till I was over the Pacific and high noon. The Earth appeared now as a great bright orb hundreds
+of times larger than the full moon. In its center a dazzling patch of light was the sun's image reflected in the
+ocean. The planet's circumference was an indefinite breadth of luminous haze, fading into the surrounding
+blackness of space. Much of the northern hemisphere, tilted somewhat toward me, was an expanse of snow
+and cloud-tops. I could trace parts of the outlines of Japan and China, their vague browns and greens indenting
+the vague blues and grays of the ocean. Toward the equator, where the air was clearer, the ocean was dark. A
+little whirl of brilliant cloud was perhaps the upper surface of a hurricane. The Philippines and New Guinea
+were precisely mapped. Australia faded into the hazy southern limb.
+The spectacle before me was strangely moving. Personal anxiety was blotted out by wonder and admiration;
+for the sheer beauty of our planet surprised me. It was a huge pearl, set in spangled ebony. It was nacrous, it
+was an opal. No, it was far more lovely than any jewel. Its patterned coloring was more subtle, more ethereal.
+It displayed the delicacy and brilliance, the intricacy and harmony of a live thing. Strange that in my
+remoteness I seemed to feel, as never before, the vital presence of Earth as of a creature alive but tranced and
+obscurely yearning to wake.
+I reflected that not one of the visible features of this celestial and living gem revealed the presence of man.
+Dis-played before me, though invisible, were some of the most congested centers of human population. There
+below me lay huge industrial regions, blackening the air with smoke. Yet all this thronging life and humanly
+momentous enterprise had made no mark whatever on the features of the planet. From this high look-out the
+Earth would have appeared no different before the dawn of man. No visiting angel, or explorer from another
+CHAPTER I 7
+planet, could have guessed that this bland orb teemed with vermin, with world-mastering, self-torturing,
+incipiently angelic beasts.
+CHAPTER I 8
+CHAPTER 2
+INTERSTELLAR TRAVEL
+WHILE I was thus contemplating my native planet, I continued to soar through space. The Earth was visibly
+shrinking into the distance, and as I raced eastwards, it seemed to be rotating beneath me. All its features
+swung westwards, till presently sunset and the Mid-Atlantic appeared upon its eastern limb, and then the
+night. Within a few minutes, as it seemed to me, the planet had become an immense half-moon. Soon it was a
+misty, dwindling crescent, beside the sharp and minute crescent of its satellite.
+With amazement I realized that I must be traveling at a fantastic, a quite impossible rate. So rapid was my
+progress that I seemed to be passing through a constant hail of meteors. They were invisible till they were
+almost abreast of me; for they shone only by reflected sunlight, appearing for an instant only, as streaks of
+light, like lamps seen from an express train. Many of them I met in head-on collision, but they made no
+impression on me. One huge irregular bulk of rock, the size of a house, thoroughly terrified me. The
+illuminated mass swelled before my gaze, displayed for a fraction of a second a rough and lumpy surface, and
+then engulfed me. Or rather, I infer that it must have engulfed me; but so swift was my passage that I had no
+sooner seen it in the middle distance than I found myself already leaving it behind.
+Very soon the Earth was a mere star. I say soon, but my sense of the passage of time was now very confused.
+Minutes and hours, and perhaps even days, even weeks, were now indistinguishable.
+While I was still trying to collect myself, I found that I was already beyond the orbit of Mars, and rushing
+across the thoroughfare of the asteroids. Some of these tiny planets were now so near that they appeared as
+great stars streaming across the constellations. One or two revealed gibbous, then crescent forms before they
+faded behind me.
+Already Jupiter, far ahead of me, grew increasingly bright and shifted its position among the fixed stars. The
+great globe now appeared as a disc, which soon was larger than the shrinking sun. Its four major satellites
+were little pearls floating beside it. The planet's surface now appeared like streaky bacon, by reason of its
+cloud-zones. Clouds fogged its whole circumference. Now I drew abreast of it and passed it. Owing to the
+immense depth of its atmosphere, night and day merged into one another without assignable boundary. I noted
+here and there on its eastern and unilluminated hemisphere vague areas of ruddy light, which were perhaps the
+glow cast upwards through dense clouds by volcanic upheavals.
+In a few minutes, or perhaps years, Jupiter had become once more a star, and then was lost in the splendor of
+the diminished but still blazing sun. No other of the outer planets lay near my course, but I soon realized that I
+must be far beyond the limits of even Pluto's orbit. The sun was now merely the brightest of the stars, fading
+behind me.
+At last I had time for distress. Nothing now was visible but the starry sky. The Plough, Cassiopeia, Orion, the
+Pleiades, mocked me with their familiarity and their remoteness. The sun was now but one among the other
+bright stars. Nothing changed. Was I doomed to hang thus for ever out in space, a bodiless view-point? Had I
+died? Was this my punishment for a singularly ineffectual life? Was this the penalty of an inveterate will to
+remain detached from human affairs and passions and prejudices?
+In imagination I struggled back to my suburban hilltop. I saw our home. The door opened. A figure came out
+into the garden, lit by the hall light. She stood for a moment looking up and down the road, then went back
+into the house. But all this was imagination only. In actuality, there was nothing but the stars.
+After a while I noticed that the sun and all the stars in his neighborhood were ruddy. Those at the opposite
+pole of the heaven were of an icy blue. The explanation of this strange phenomenon flashed upon me. I was
+CHAPTER 2 9
+still traveling, and traveling so fast that light itself was not wholly indifferent to my passage. The overtaking
+undulations took long to catch me. They therefore affected me as slower pulsations than they normally were,
+and I saw them therefore as red. Those that met me on my headlong flight were congested and shortened, and
+were seen as blue.
+Very soon the heavens presented an extraordinary appearance, for all the stars directly behind me were now
+deep red, while those directly ahead were violet. Rubies lay behind me, amethysts ahead of me. Surrounding
+the ruby constellations there spread an area of topaz stars, and round the amethyst constellations an area of
+sapphires. Beside my course, on every side, the colors faded into the normal white of the sky's familiar
+diamonds. Since I was traveling almost in the plane of the galaxy, the hoop of the Milky Way, white on either
+hand, was violet ahead of me, red behind. Presently the stars immediately before and behind grew dim, then
+vanished, leaving two starless holes in the heaven, each hole surrounded by a zone of colored stars. Evidently
+I was still gathering speed. Light from the forward and the hinder stars now reached me in forms beyond the
+range of my human vision.
+As my speed increased, the two starless patches, before and behind, each with its colored fringe, continued to
+encroach upon the intervening zone of normal stars which lay abreast of me on every side. Amongst these I
+now detected movement. Through the effect of my own passage the nearer stars appeared to drift across the
+background of the stars at greater distance. This drifting accelerated, till, for an instant, the whole visible sky
+was streaked with flying stars. Then everything vanished. Presumably my speed was so great in relation to the
+stars that light from none of them could take normal effect on me.
+Though I was now perhaps traveling faster than light itself, I seemed to be floating at the bottom of a deep and
+stagnant well. The featureless darkness, the complete lack of all sensation, terrified me, if I may call "terror"
+the repugnance and foreboding which I now experienced without any of the bodily accompaniments of terror,
+without any sensation of trembling, sweating, gasping or palpitation. Forlornly, and with self-pity, I longed
+for home, longed to see once more the face that I knew best. With the mind's eye I could see her now, sitting
+by the fire sewing, a little furrow of anxiety between her brows. Was my body, I wondered, lying dead on the
+heather? Would they find it there in the morning? How would she confront this great change in her life?
+Certainly with a brave face; but she would suffer.
+But even while I was desperately rebelling against the dissolution of our treasured atom of community, I was
+aware that something within me, the essential spirit within me, willed very emphatically not to retreat but to
+press on with this amazing voyage. Not that my longing for the familiar human world could for'.a moment be
+counterbalanced by the mere craving for adventure. I was of too home-keeping a kind to seek serious danger
+and discomfort for their own sake. But timidity was overcome by a sense of the opportunity that fate was
+giving me, not only to explore the depths of the physical universe, but to discover what part life and mind
+were actually playing among the stars. A keen hunger now took possession of me, a hunger not for adventure
+but for insight into the significance of man, or of any manlike beings in the cosmos. This homely treasure of
+ours, this frank and spring-making daisy beside the arid track of modern life, impelled me to accept gladly my
+strange adventure; for might I not discover that the whole universe was no mere place of dust and ashes with
+here and there a stunted life, but actually beyond the parched terrestrial waste land, a world of flowers?
+Was man indeed, as he sometimes desired to be, the growing point of the cosmical spirit, in its temporal
+aspect at least? Or was he one of many million growing points? Or was mankind of no more importance in the
+universal view than rats in a cathedral? And again, was man's true function power, or wisdom, or love, or
+worship, or all of all these? Or was the idea of function, of purpose, meaningless in relation to the cosmos?
+These grave questions I would answer. Also I must learn to see a little more clearly and confront a little more
+rightly (so I put it to myself) that which, when we glimpse it at all, compels our worship.
+I now seemed to my self-important self to be no isolated individual, craving aggrandizement, but rather an
+emissary of mankind, no, an organ of exploration, a feeler, 'projected by the living human world to make
+CHAPTER 2 10
+contact with its fellows in space. At all cost I must go forward, even if my trivial earthly life must come to an
+untimely end, and my wife and children be left without me. I must go forward; and somehow, some day, even
+if after centuries of interstellar travel, I must return.
+When I look back on that phase of exaltation, now that I have indeed returned to earth after the most
+bewildering adventures, I am dismayed at the contrast between the spiritual treasure which I aspired to hand
+over to my fellow men and the paucity of my actual tribute. This failure was perhaps due to the fact that,
+though I did indeed accept the challenge of the adventure, I accepted it only with secret reservations. Fear and
+the longing for comfort, I now recognize, dimmed the brightness of my will. My resolution, so boldly formed,
+proved after all frail. My unsteady courage often gave place to yearnings for my native planet. Over and over
+again in the course of my travels I had a sense that, owing to my timid and pedestrian nature, I missed the
+most significant aspects of events.
+Of all that I experienced on my travels, only a fraction was clearly intelligible to me even at the time; and
+then, as I shall tell, my native powers were aided by beings of superhuman development. Now that I am once
+more on my native planet, and this aid is no longer available, I cannot recapture even so much of the deeper
+insight as I formerly attained. And so my record, which tells of the most far-reaching of all human
+explorations, turns out to be after all no more reliable than the rigmarole of any mind unhinged by the impact
+of experience beyond its comprehension.
+To return to my story. How long I spent in debate with myself I do not know, but soon after I had made my
+decision, the absolute darkness was pierced once more by the stars. I was apparently at rest, for stars were
+visible in every direction, and their color was normal.
+But a mysterious change had come over me. I soon discovered that, by merely willing to approach a star, I
+could set myself in motion toward it, and at such a speed that I must have traveled much faster than normal
+light. This, as I knew very well, was physically impossible. Scientists had assured me that motion faster than
+the speed of light was meaningless. I inferred that my motion must therefore be in some manner a mental, not
+a physical phenomenon, that I was enabled to take up successive viewpoints without physical means of
+locomotion. It seemed to me evident, too, that the light with which the stars were now revealed to me was not
+normal, physical light; for I noticed that my new and expeditious means of travel took no effect upon the
+visible colors of the stars. However fast I moved, they retained their diamond hues, though all were somewhat
+brighter and more tinted than in normal vision.
+No sooner had I made sure of my new power of locomotion than I began feverishly to use it. I told myself that
+I was embarking on a voyage of astronomical and metaphysical research; but already my craving for the Earth
+was distorting my purpose. It turned my attention unduly toward the search for planets, and especially for
+planets of the terrestrial type.
+At random I directed my course toward one of the brighter of the near stars. So rapid was my advance that
+certain lesser and still nearer luminaries streamed past me like meteors. I swung close to the great sun,
+insensitive to its heat. On its mottled surface, in spite of the pervading brilliance, I could see, with my
+miraculous vision, a group of huge dark sun-spots, each one a pit into which a dozen Earths could have been
+dropped. Round the star's limb the excrescences of the chromosphere looked like fiery trees and plumes and
+prehistoric monsters, atiptoe or awing, all on a globe too small for them. Beyond these the pale corona spread
+its films into the darkness. As I rounded the star in hyperbolic flight I searched anxiously for planets, but
+found none. I searched again, meticulously, tacking and veering near and far. In the wider orbits a small object
+like the earth might easily be overlooked. I found nothing but meteors and a few insubstantial comets. This
+was the more disappointing because the star seemed to be of much the same type as the familiar sun. Secretly
+I had hoped to discover not merely planets but actually the Earth.
+Once more I struck out into the ocean of space, heading for another near star. Once more I was disappointed. I
+CHAPTER 2 11
+approached yet another lonely furnace. This too was unattended by the minute grains that harbor life.
+I now hurried from star to star, a lost dog looking for its master. I rushed hither and thither, intent on finding a
+sun with planets, and among those planets my home. Star after star I searched, but far more I passed
+impatiently, recognizing at once that they were too large and tenuous and young to be Earth's luminary. Some
+were vague ruddy giants broader than the orbit of Jupiter; some, smaller and more definite, had the brilliance
+of a thousand suns, and their color was blue. I had been told that our Sun was of average type, but I now
+discovered many more of the great youngsters than of the shrunken, yellowish middle-aged. Seemingly I must
+have strayed into a region of late stellar condensation.
+I noticed, but only to avoid them, great clouds of dust, huge as constellations, eclipsing the star-streams; and
+tracts of palely glowing gas, shining sometimes by their own light, sometimes by the reflected light of stars.
+Often these nacrous cloud-continents had secreted within them a number of vague pearls of light, the embryos
+of future stars. I glanced heedlessly at many star-couples, trios, and quartets, in which more or less equal
+partners waltz in close union. Once, and once only, I came on one of those rare couples in which one partner
+is no bigger than a mere Earth, but massive as a whole great star, and very brilliant. Up and down this region
+of the galaxy I found here and there a dying star, somberly smoldering; and here and there the encrusted and
+extinguished dead. These I could not see till I was almost upon them, and then only dimly, by the reflected
+light of the whole heaven. I never approached nearer to them than I could help, for they were of no interest to
+me in my crazy yearning for the Earth. Moreover, they struck a chill into my mind, prophesying the universal
+death. I was comforted, however, to find that as yet there were so few of them.
+I found no planets. I knew well that the birth of planets was due to the close approach of two or more stars,
+and that such accidents must be very uncommon. I reminded myself that stars with planets must be as rare in
+the galaxy as gems among the grains of sand on the sea-shore. What chance had I of coming upon one? I
+began to lose heart. The appalling desert of darkness and barren fire, the huge emptiness so sparsely pricked
+with scintillations, the colossal futility of the whole universe, hideously oppressed me. And now, an added
+distress, my power of locomotion began to fail. Only with a great effort could I move at all among the stars,
+and then but slowly, and ever more slowly. Soon I should find myself pinned fast in space like a fly in a
+collection; but lonely, eternally alone. Yes, surely this was my special Hell.
+I pulled myself together. I reminded myself that even if this was to be my fate, it was no great matter. The
+Earth could very well do without me. And even if there was no other living world anywhere in the cosmos,
+still, the Earth itself had life, and might wake to far fuller life. And even though I had lost my native planet,
+still, that beloved world was real. Besides, my whole adventure was a miracle, and by continued miracle
+might I not stumble on some other Earth? I remembered that I had undertaken a high pilgrimage, and that I
+was man's emissary to the stars.
+With returning courage my power of locomotion returned. Evidently it depended on a vigorous and
+self-detached mentality. My recent mood of self-pity and earthward-yearning had hampered it.
+Resolving to explore a new region of the galaxy, where perhaps there would be more of the older stars and a
+greater hope of planets, I headed in the direction of a remote and populous cluster. From the faintness of the
+individual members of this vaguely speckled ball of light I guessed that it must be very far afield. On and on I
+traveled in the darkness. As I never turned aside to search, my course through the ocean of space never took
+me near enough to any star to reveal it as a disc. The lights of heaven streamed remotely past me like the
+lights of distant ships. After a voyage during which I lost all measure of time I found myself in a great desert,
+empty of stars, a gap between two star-streams, a cleft in the galaxy. The Milky Way surrounded me, and in
+all directions lay the normal dust of distant stars; but there were no considerable lights, save the thistle-down
+of the remote cluster which was my goal.
+This unfamiliar sky disturbed me with a sense of my increasing dissociation from my home. It was almost a
+CHAPTER 2 12
+comfort to note, beyond the furthest stars of our galaxy, the minute smudges that were alien galaxies,
+incomparably more distant than the deepest recesses of the Milky Way; and to be reminded that, in spite of all
+my headlong and miraculous traveling, I was still within my native galaxy, within the same little cell of the
+cosmos where she, my life's friend, still lived. I was surprised, by the way, that so many of the alien galaxies
+appeared to the naked eye, and that the largest was a pale, cloudy mark bigger than the moon in the terrestrial
+sky.
+By contrast with the remote galaxies, on whose appearance all my voyaging failed to make impression, the
+star-cluster ahead of me was now visibly expanding. Soon after I had crossed the great emptiness between the
+star-streams, my cluster confronted me as a huge cloud of brilliants. Presently I was passing through a more
+populous area, and then the cluster itself opened out ahead of me, covering the whole forward sky with its
+congested lights. As a ship approaching port encounters other craft, so I came upon and passed star after star.
+When I had penetrated into the heart of the cluster, I was in a region far more populous than any that I had
+explored. On every side the sky blazed with suns, many of which appeared far brighter than Venus in the
+Earth's sky. I felt the exhilaration of a traveler who, after an ocean crossing, enters harbors by night and finds
+himself surrounded by the lights of a metropolis. In this congested region, I told myself, many close
+approaches must have occurred, many planetary systems must have been formed. Once more I looked for
+middle-aged stars of the sun's type. All that I had passed hitherto were young giants, great as the whole solar
+system. After further searching I found a few likely stars, but none had planets. I found also many double and
+triple stars, describing their incalculable orbits; and great continents of gas, in which new stars were
+condensing. At last, at last I found a planetary system. With almost insupportable hope I circled among these
+worlds; but all were greater than Jupiter, and all were molten. Again I hurried from star to star. I must have
+visited thousands, but all in vain. Sick and lonely I fled out of the cluster. It dwindled behind me into a ball of
+down, sparkling with dew-drops. In front of me a great tract of darkness blotted out a section of the Milky
+Way and the neighboring area of stars, save for a few near lights which lay between me and the obscuring
+opacity. The billowy edges of this huge cloud of gas or dust were revealed by the glancing rays of bright stars
+beyond it. The sight moved me with self-pity; on so many nights at home had I seen the edges of dark clouds
+silvered just so by moonlight. But the cloud which now opposed me could have swallowed not merely whole
+worlds, not merely countless planetary systems, but whole constellations.
+Once more my courage failed me. Miserably I tried to shut out the immensities by closing my eyes. But I had
+neither eyes nor eyelids. I was a disembodied, wandering view-point. I tried to conjure up the little interior of
+my home, with the curtains drawn and the fire dancing. I tried to persuade myself that all this horror of
+darkness and dis tance and barren incandescence was a dream, that I was dozing by the fire, that at any
+moment I might wake, that she would reach over from her sewing and touch me and smile. But the stars still
+held me prisoner.
+Again, though with failing strength, I set about my search. And after I had wandered from star to star for a
+period that might have been days or years or aeons, luck or some guardian spirit directed me to a certain
+sun-like star; and looking outwards from this center, I caught sight of a little point of light, moving, with my
+movement, against the patterned sky.4 As I leapt toward it, I saw another, and another. Here was indeed a
+planetary system much like my own. So obsessed was I with human standards that I sought out at once the
+most earth-like of these worlds. And amazinsly earth-like it appeared, as its disc swelled before me, or below
+me. Its atmosphere was evidently less dense than ours, for the outlines of unfamiliar continents and oceans
+were very plainly visible.
+As on the earth, the dark sea brilliantly reflected the sun's image. White cloud-tracts lay here and there over
+the seas and the lands, which, as on my own planet, were mottled green and brown. But even from this height
+I saw that the greens were more vivid and far more blue than terrestrial vegetation. I noted, also, that on this
+planet there was less ocean than land, and that the centers of the great continents were chiefly occupied by
+dazzling creamy-white deserts.
+CHAPTER 2 13
+CHAPTER 3
+THE OTHER EARTH
+1. ON THE OTHER EARTH
+AS I slowly descended toward the surface of the little planet, I found myself searching for a land which
+promised to be like England. But no sooner did I realize what I was doing than I reminded myself that
+conditions here would be entirely different from terrestrial conditions, and that it was very unlikely that I
+should find intelligent beings at all. If such beings existed, they would probably be quite incomprehensible to
+me. Perhaps they would be huge spiders or creeping jellies. How could I hope ever to make contact with such
+monsters?
+After circling about at random for some time over the filmy clouds and the forests, over the dappled plains
+and prairies and the dazzling stretches of desert, I selected a maritime country in the temperate zone, a
+brilliantly green peninsula. When I had descended almost to the ground, I was amazed at the verdure of the
+country-side. Here unmistakably was vegetation, similar to ours in essential character, but quite unfamiliar in
+detail. The fat, or even bulbous, leaves reminded me of our desert-flora, but here the stems were lean and
+wiry. Perhaps the most striking character of this vegetation was its color, which was a vivid blue-green, like
+the color of vineyards that have been treated with copper salts. I was to discover later that the plants of this
+world had indeed learnt to protect themselves by means of copper sulphate from the microbes and the
+insect-like pests which formerly devastated this rather dry planet.
+I skimmed over a brilliant prairie scattered with Prussian blue bushes. The sky also attained a depth of blue
+quite unknown on earth, save at great altitudes. There were a few low yet cirrus clouds, whose feathery
+character I took to be due to the tenuousness of the atmosphere. This was borne out by the fact that, though
+my descent had taken place in the forenoon of a summer's day, several stars managed to pierce the almost
+nocturnal sky. All exposed surfaces were very intensely illuminated. The shadows of the nearer bushes were
+nearly black. Some distant objects, rather like buildings, but probably mere rocks, appeared to be blocked out
+in ebony and snow. Altogether the landscape was one of unearthly and fantastical beauty.
+I glided with wingless flight over the surface of the planet, through glades, across tracts of fractured rock,
+along the banks of streams. Presently I came to a wide region covered by neat, parallel rows of fern-like
+plants, bearing masses of nuts on the lower surfaces of their leaves. It was almost impossible to believe that
+this vegetable regimentation had not been intelligently planned. Or could it after all be merely a natural
+phenomenon not known on my own planet? Such was my surprise that my power of locomotion, always
+subject to emotional interference, now began to fail me. I reeled in the air like a drunk man. Pulling myself
+together, I staggered on over the ranked crops toward a rather large object which lay some distance from me
+beside a strip of bare ground. Presently, to my amazement, my stupefaction, this object revealed itself as a
+plow. It was rather a queer instrument, but there was no mistaking the shape of the blade, which was rusty,
+and obviously made of iron. There were two iron handles, and chains for attachment to a beast of burden. It
+was difficult to believe that I was many light-years distant from England. Looking round, I saw an
+unmistakable cart track, and a bit of dirty ragged cloth hanging on a bush. Yet overhead was the unearthly
+sky, full noon with stars.
+I followed the lane through a little wood of queer bushes, whose large fat drooping leaves had cherry-like
+fruits along their edges. Suddenly, round a bend in the lane, I came upon a man. Or so at first he seemed to my
+astounded and star-weary sight. I should not have been so surprised by the strangely human character of this
+creature had I at this early stage understood the forces that controlled my adventure. Influences which I shall
+later describe doomed me to discover first such worlds as were most akin to my own. Meanwhile the reader
+may well conceive my amazement at this strange encounter. I had always supposed that man was a unique
+being. An inconceivably complex conjunction of circumstances had produced him, and it was not to be
+CHAPTER 3 14
+supposed that such conditions would be repeated anywhere in the universe. Yet here, on the very first globe to
+be explored, was an obvious peasant. Approaching him, I saw that he was not quite so like terrestrial man as
+he seemed at a distance; but he was a man for all that. Had God, then, peopled the whole universe with our
+kind? Did he perhaps in very truth make us in his image? It was incredible. To ask such questions proved that
+I had lost my mental balance.
+As I was a mere disembodied view-point, I was able to observe without being observed. I floated about him as
+he strode along the lane. He was an erect biped and in general plan definitely human. I had no means of
+judging his height, but he must have been approximately of normal terrestrial stature, or at least not smaller
+than a pigmy and not taller than a giant. He was of slender build. His legs were almost like a bird's, and
+enclosed in rough narrow trousers. Above the waist he was naked, displaying a disproportionately large
+thorax, shaggy with greenish hair. He had two short but powerful arms, and huge shoulder muscles. His skin
+was dark and ruddy, and dusted plentifully with bright green down. All his contours were uncouth, for the
+details of muscles, sinews and joints were very plainly different from our own. His neck was curiously long
+and supple. His head I can best describe by saying that most of the brain-pan, covered with a green thatch,
+seemed to have slipped backwards and downwards over the nape. His two very human eyes peered from
+under the eaves of hair. An oddly projecting, almost spout-like mouth made him look as though he were
+whistling. Between the eyes, and rather above them, was a pair of great equine nostrils which were constantly
+in motion. The bridge of the nose was represented by an elevation in the thatch, reaching from the nostrils
+backwards over the top of the head. There were no visible ears. I discovered later that the auditory organs
+opened into the nostrils.
+Clearly, although evolution on this Earth-like planet must have taken a course on the whole surprisingly like
+that which had produced my own kind, there must also have been many divergencies.
+The stranger wore not only boots but gloves, seemingly ol tough leather. His boots were extremely short. I
+was to discover later that the feet of this race, the "Other Men," as I called them, were rather like the feet of an
+ostrich or a camel. The instep consisted of three great toes grown together. In place of the heel there was an
+additional broad, stumpy toe. The hands were without palms. Each was a bunch of three gristly fingers and a
+thumb.
+The aim of this book is not to tell of ray own adventures but to give some idea of the worlds which I visited. I
+shall therefore not recount in detail how I established myself among the Other Men. Of myself it is enough to
+say a few words. When I had studied this agriculturalist for a while, I began to be strangely oppressed by his
+complete unawareness, of myself. With painful clearness I realized that the purpose of my pilgrimage was not
+merely scientific observation, but also the need to effect some kind of mental and spiritual traffic with other
+worlds, for mutual enrichment and community. How should I ever be able to achieve this end unless I could
+find some means of communication? It was not until I had followed my companion to his home, and had
+spent many days in that little circular stone house with roof of mudded wicker, that I discovered the power of
+entering into his mind, of seeing through his eyes, sensing through all his sense organs, perceiving his world
+just as he perceived it, and following much of his thought and his emotional life. Not till very much later,
+when I had passively "inhabited" many individuals of the race, did I discover how to make my presence
+known, and even to converse inwardly with my host.
+This kind of internal "telepathic" intercourse, which was to serve me in all my wanderings, was at first
+difficult, ineffective, and painful. But in time I came to be able to live through the experiences of my host with
+vividness and accuracy, while yet preserving my own individuality, my own critical intelligence, my own
+desires and fears. Only when the other had come to realize my presence within him could he, by a special act
+of volition, keep particular thoughts secret from me.
+It can well be understood that at first I found these alien minds quite unintelligible. Their very sensations
+differed from my familiar sensations in important respects. Their thoughts and all their emotions and
+CHAPTER 3 15
+sentiments were strange to me. The traditional groundwork of these minds, their most familiar concepts, were
+derived from a strange history, and expressed in languages which to the terrestrial mind were subtly
+misleading.
+I spent on the Other Earth many "other years," wandering from mind to mind and country to country, but I did
+not gain any clear understanding of the psychology of the Other Men and the significance of their history till I
+had encountered one of their philosophers, an aging but still vigorous man whose eccentric and unpalatable
+views had prevented him from attaining eminence. Most of my hosts, when they became aware of 'my
+presence within them, regarded me either as an evil spirit or as a divine messenger. The more sophisticated,
+however, assumed that I was a mere disease, a symptom of insanity in themselves. They therefore promptly
+applied to the local "Mental Sanitation Officer." After I had spent, according to the local calendar, a year or so
+of bitter loneliness among minds who refused to treat me as a human being, I had the good fortune to come
+under the philosopher's notice. One of my hosts, who complained of suffering from "voices," and visions of
+"another world," appealed to the old man for help. Bvalltu, for such approximately was the philosopher's
+name, the "11" being pronounced more or less as in Welsh, Bvalltu effected a "cure" by merely inviting me to
+accept the hospitality of his own mind, where, he said, he would very gladly entertain me. It was with
+extravagant joy that I made contact at last with a being who recognized in me a human personality.
+2. A BUSY WORLD
+So many important characteristics of this world-society need to be described that I cannot spend much time on
+the more obvious features of the planet and its race. Civilization had reached a stage of growth much like that
+which was familiar to me. I was constantly surprised by the blend of similarity and difference. Traveling over
+the planet I found that cultivation had spread over most of the suitable areas, and that industrialism was
+already far advanced in many countries. On the prairies huge flocks of mammal-like creatures grazed and
+scampered. Larger mammals, or quasi-mammals, were farmed on all the best pasture land for food and
+leather. I say "quasi-mammal" because, though these creatures were viviparous, they did not suckle. The
+chewed cud, chemically treated in the maternal belly, was spat into the offspring's mouth as a jet of
+pre-digested fluid. It was thus also that human mothers fed their young.
+The most important means of locomotion on the Other Earth was the steam-train, but trains in this world were
+so bulky that they looked like whole terraces of houses on the move. This remarkable railway development
+was probably due to the great number and length of journeys across deserts. Occasionally I traveled on
+steam-ships on the few and small oceans, but marine transport was on the whole backward. The screw
+propeller was unknown, its place being taken by paddle wheels. Internal-combustion engines were used in
+road and desert transport. Flying, owing to the rarified atmosphere, had not been achieved; but
+rocket-propulsion was already used for long-distance transport of mails, and for long-range bombardment in
+war. Its application to aeronautics might come any day.
+My first visit to the metropolis of one of the great empires of the Other Earth was an outstanding experience.
+Everything was at once so strange and so familiar. There were streets and many-windowed stores and offices.
+In this old city the streets were narrow, and so congested was the motor traffic that pedestrians were
+accommodated on special elevated tracks slung beside the first-story windows and across the streets.
+The crowds that streamed along these footpaths were as variegated as our own. The men wore cloth tunics,
+and trousers surprisingly like the trousers of Europe, save that the crease affected by the respectable was at the
+side of the leg. The women, breastless and high-nostriled like the men, were to be distinguished by their more
+tubular lips, whose biological function it was to project food for the infant. In place of skirts they disported
+green and glossy silk tights and little gawdy knickers. To my unaccustomed vision the effect was
+inexpressibly vulgar. In summar both sexes often appeared in the streets naked to the waist; but they always
+wore gloves.
+CHAPTER 3 16
+Here, then, was a host of persons who, in spite of their oddity, were as essentially human as Londoners. They
+went about their private affairs with complete assurance, ignorant that a spectator from another world found
+them one and all grotesque, with their lack of forehead, their great elevated quivering nostrils, their startlingly
+human eyes, their spout-like mouths. There they were, alive and busy, shopping, staring, talking. Children
+dragged at their mothers' hands. Old men with white facial hair bowed over walking-stocks. Young men eyed
+young women. The prosperous were easily to be distinguished from the unfortunate by their newer and richer
+clothes, their confident and sometimes arrogant carriage.
+How can I describe in a few pages the distinctive character of a whole teeming and storied world, so different
+from my own, yet so similar? Here, as on my own planet, infants were being born every hour. Here, as there,
+they clamored for food, and very soon for companionship. They discovered what pain was, and what fear, and
+what loneliness, and love. They grew up, molded by the harsh or kindly pressure of their fellows, to be either
+well nurtured, generous, sound, or mentally crippled, bitter, unwittingly vindictive. One and all they
+desperately craved the bliss of true community; and very few, fewer here, perhaps, than in my own world,
+found more than the vanishing flavor of it. They howled with the pack and hounded with the pack. Starved
+both physically and mentally, they brawled over the quarry and tore one another to pieces, mad with hunger,
+physical or mental. Sometimes some of them paused and asked what it was all for; and there followed a battle
+of words, but no clear answer. Suddenly they were old and finished. Then, the span from birth to death being
+an imperceptible instant of cosmical time, they vanished.
+This planet, being essentially of the terrestrial type, had produced a race that was essentially human, though,
+so to speak, human in a different key from the terrestrial. These continents were as variegated as ours, and
+inhabited by a race as diversified as Homo sapiens. All the modes and facets of the spirit manifested in our
+history had their equivalents in .3. the history of the Other Men. As with us, there had been dark ages and ages
+of brilliance, phases of advancement and of retreat, cultures predominantly material, and others in the main
+intellectual, aesthetic, or spiritual. There were "Eastern" races and "Western" races. There were empires,
+republics, dictatorships. Yet all was different from the terrestrial. Many of the differences, of course, were
+superficial; but there was also an underlying, deep-lying difference which I took long to understand and will
+not yet describe. I must begin by speaking of the biological equipment of the Other Men. Their animal nature
+was at bottom much like ours. They responded with anger, fear, hate, tenderness, curiosity, and so on, much
+as we respond. In sensory equipment they were not unlike ourselves, save that in vision they were less
+sensitive to color and more to form than is common with us. The violent colors of the Other Earth appeared to
+me through the eyes of its natives very subdued. In hear-ing also they were rather ill-equipped. Though their
+auditory organs were as sensitive as ours to faint sounds, they were poor discriminators. Music, such as we
+know, never developed in this world.
+In compensation, scent and taste developed amazingly. These beings tasted not only with their mouths, but
+with then-moist black hands and with their feet. They were thus afforded an extraordinarily rich and intimate
+experience of their planet. Tastes of metals and woods, of sour and sweet earths, of the many rocks, and of the
+innumerable shy or bold flavors of plants crushed beneath the bare running feet, made up a whole world
+unknown to terrestrial man.
+The genitals also were equipped with taste organs. There were several distinctive male and female patterns of
+chemical characteristics, each powerfully attractive to the opposite sex. These were savored faintly by contact
+of hands or feet with any part of the body, and with exquisite intensity in copulation.
+This surprising richness of gustatory experience made it very difficult for me to enter fully into the thoughts of
+the Other Men. Taste played as important a part in their imagery and conception as sight in our own. Many
+ideas which terrestrial man has reached by way of sight, and which even in their most abstract form still bear
+traces of their visual origin, the Other Men conceived in terms of taste. For example, our "brilliant," as applied
+to persons or ideas, they would translate by a word whose literal meaning was "tasty." For "lucid" they would
+use a term which in primitive times was employed by hunters to signify an easily runnable taste-trail. To have
+CHAPTER 3 17
+"religious illumination" was to "taste the meadows of heaven." Many of our non-visual concepts also were
+rendered by means of taste. "Complexity" was "many flavored," a word applied originally to the confusion of
+tastes round a drinking pool frequented by many kinds of beasts. "Incompatibility" was derived from a word
+meaning the disgust which certain human types felt for one another on account of their flavors.
+Differences of race, which in our world are chiefly conceived in terms of bodily appearance, were for the
+Other Men almost entirely differences of taste and smell. And as the races of the Other Men were much less
+sharply localized than our own races, the strife between groups whose flavors were repugnant to one another
+played a great part in history. Each race tended to believe that its own flavor was characteristic of all the finer
+mental qualities, was indeed an absolutely reliable label of spiritual worth. In former ages the gustatory and
+olfactory differences had, no doubt, been true signs of racial differences; but in modern times, and in the more
+developed lands, there had been great changes. Not only had the races ceased to be clearly localized, but also
+industrial civilization had produced a crop of genetic changes which rendered the old racial distinctions
+meaningless. The ancient flavors, however, though they had by now no racial significance at all, and indeed
+members of one family might have mutually repugnant flavors, continued to have the traditional emotional
+effects. In each country some particular flavor was considered the true hall-mark of the race of that country,
+and all other flavors were despised, if not actually condemned.
+In the country which I came to know best the orthodox racial flavor was a kind of saltness inconceivable to
+terrestrial man. My hosts regarded themselves as the very salt of the earth. But as a matter of fact the peasant
+whom I first "inhabited" was the only genuine pure salt man of orthodox variety whom I ever encountered.
+The great majority of that country's citizens attained their correct taste and smell by artificial means. Those
+who were at least approximately salt, with some variety of saltness, though not the ideal variety, were forever
+exposing the deceit of their sour, sweet, or bitter neighbors. Unfortunately, though the taste of the limbs could
+be fairly well disguised, no effective means had been found for changing the flavor of copulation.
+Consequently newly married couples were apt to make the most shattering discoveries about one another on
+the wedding night. Since in the great majority of unions neither party had the orthodox flavor, both were
+willing to pretend to the world that all was well. But often there would turn out to be a nauseating
+incompatibility between the two gustatory types. The whole population was rotten with neuroses bred of these
+secret tragedies of marriage. Occasionally, when one party was more or less of the orthodox flavor, this
+genuinely salt partner would indignantly denounce the impostor. The courts, the news bulletins, and the public
+would then join in self-righteous protests.
+Some "racial" flavors were too obtrusive to be disguised. One in particular, a kind of bitter-sweet, exposed its
+possessor to extravagant persecution in all but the most tolerant countries. In past times the bitter-sweet race
+had earned a reputation of cunning and self-seeking, and had been periodically massacred by its less
+intelligent neighbors. But in the general biological ferment of modern times the bitter-sweet flavor might crop
+up in any family. Woe, then, to the accursed infant, and to all its relatives! Persecution was inevitable; unless
+indeed the family was wealthy enough to purchase from the state "an honorary salting" (or in the neighboring
+land, "an honorary sweetening"), which removed the stigma.
+In the more enlightened countries the whole racial superstition was becoming suspect. There was a movement
+among the intelligentsia for conditioning infants to tolerate every kind of human flavor, and for discarding the
+deodorants and degustatants, and even the boots and gloves, which civilized convention imposed.
+Unfortunately this movement of toleration was hampered by one of the consequences of industrialism. In the
+congested and unhealthy industrial centers a new gustatory and olfactory type had appeared, apparently as a
+biological mutation. In a couple of generations this sour, astringent, and undisguis-able flavor dominated in all
+the most disreputable working-class quarters. To the fastidious palates of the well-to-do it was
+overwhelmingly nauseating and terrifying. In fact it became for them an unconscious symbol, tapping all the
+secret guilt and fear and hate which the oppressors felt for the oppressed.
+CHAPTER 3 18
+In this world, as in our own, nearly all the chief means of production, nearly all the land, mines, factories,
+railways, ships, were controlled for private profit by a small minority of the population. These privileged
+individuals were able to force the masses to work for them on pain of starvation. The tragic farce inherent in
+such a system was already approaching. The owners directed the energy of the workers increasingly toward
+the production of more means of production rather than to the fulfilment of the needs of individual life. For
+machinery might bring profit to the owners; bread would not. With the increasing competition of machine
+with machine, profits declined, and therefore wages, and therefore effective demand for goods. Marketless
+products were destroyed, though bellies were unfed and backs unclad. Unemployment, disorder, and stem
+repression increased as the economic system disintegrated. A familiar story!
+As conditions deteriorated, and the movements of charity and state-charity became less and less able to cope
+with the increasing mass of unemployment and destitution, the new pariah-race became more and more
+psychologically useful to the hate-needs of the scared, but still powerful, prosperous. The theory was spread
+that these wretched beings were the result of secret systematic race-pollution by riff-raff immigrants, and that
+they deserved no consideration whatever. They were therefore allowed only the basest forms of employment
+and the harshest conditions of work. When unemployment had become a serious social problem, practically
+the whole pariah stock was workless and destitute. It was of course easily believed that unemployment, far
+from being due to the decline of capitalism, was due to the worthless-ness of the pariahs.
+At the time of my visit the working class had become tainted through and through by the pariah stock, and
+there was a vigorous movement afoot amongst the wealthy and the official classes to institute slavery for
+pariahs and half-pariahs, so that these might be openly treated as the cattle which in fact they were. In view of
+the danger of continued race-pollution, some politicians urged wholesale slaughter of the pariahs, or, at the
+least, universal sterilization. Others pointed out that, as a supply of cheap labor was necessary to society, it
+would be wiser merely to keep their numbers down by working them to an early death in occupations which
+those of "pure race" would never accept. This, at any rate, should be done in times of prosperity; but in times
+of decline, the excess population could be allowed to starve, or might be used up in the physiological
+laboratories.
+The persons who first dared to suggest this policy were scourged by the whips of generous popular
+indignation. But their policy was in fact adopted; not explicitly but by tacit consent, and in the absence of any
+more constructive plan.
+The first time that I was taken through the poorest quarter of the city I was surprised to see that, though there
+were large areas of slum property far more squalid than anything in England, there were also many great clean
+blocks of tenements worthy of Vienna. These were surrounded by gardens, which were crowded with
+wretched tents and shanties. The grass was worn away, the bushes damaged, the flowers trampled.
+Everywhere men, women, and children, all filthy and ragged, were idling.
+I learned that these noble buildings had been erected before the world-economic-crisis (familiar phrase!) by a
+millionaire who had made his money in trading an opium-like drug. He presented the buildings to the City
+Council, and was gathered to heaven by way of the peerage. The more deserving and less unsavory poor were
+duly housed; but care was taken to fix the rent high enough to exclude the pariah-race. Then came the crisis.
+One by one the tenants failed to pay their rent, and were ejected. Within a year the buildings were almost
+empty.
+There followed a very curious sequence of events, and one which, as I was to discover, was characteristic of
+this strange world. Respectable public opinion, though vindictive toward the unemployed, was passionately
+tender toward the sick. In falling ill, a man acquired a special sanctity, and exercised a claim over all healthy
+persons. Thus no sooner did any of the wretched campers succumb to a serious disease than he was carried off
+to be cared for by all the resources of medical science. The desperate paupers soon discovered how things
+stood, and did all in their power to fall sick. So successful were they, that the hospitals were soon filled. The
+CHAPTER 3 19
+empty tenements were therefore hastily fitted out to receive the increasing flood of patients.
+Observing these and other farcical events, I was reminded of my own race. But though the Other Men were in
+many ways so like us, I suspected increasingly that some factor still hidden from me doomed them to a
+frustration which my own nobler species need never fear. Psychological mechanisms which in our case are
+tempered with common sense or moral sense stood out in this world in flagrant excess. Yet it was not true that
+Other Man was less intelligent or less moral than man of my own species. In abstract thought and practical
+invention he was at least our equal. Many of his most recent advances in physics and astronomy had passed
+beyond our present attainment. I noticed, however, that psychology was even more chaotic than with us, and
+that social thought was strangely perverted.
+In radio and television, for instance, the Other Men were technically far ahead of us, but the use to which they
+put their astounding inventions was disastrous. In civilized countries everyone but the pariahs carried a pocket
+receiving set. As the Other Men had no music, this may seem odd; but since they lacked newspapers, radio
+was the only means by which the man in the street could learn the lottery and sporting results which were his
+staple mental diet. The place of music, moreover, was taken by taste- and smell-themes, which were translated
+into patterns of ethereal undulation, transmitted by all the great national stations, and restored to their original
+form in the pocket receivers and taste-batteries of the population. These instruments afforded intricate stimuli
+to the taste organs and scent organs of the hand. Such was the power of this kind of entertainment that both
+men and women were nearly always seen with one hand in a pocket. A special wave length had been allotted
+to the soothing of infants.
+A sexual receiving set had been put upon the market, and programs were broadcast for it in many countries;
+but not in all. This extraordinary invention was a combination of radio--touch, taste, odor, and sound. It
+worked not through the sense organs, but direct stimulation of the appropriate brain-centers. The recipient
+wore a specially constructed skullcap, which transmitted to him from a remote studio the embraces of some
+delectable and responsive woman, as they were then actually being experienced by a male "love-broadcaster"
+or as electromagnetically recorded on a steel tape on some earlier occasion. Controversies had arisen about the
+morality of sexual broadcasting. Some countries permitted programs for males but not for females, wishing to
+preserve the innocence of the purer sex. Elsewhere the clerics had succeeded in crushing the whole project on
+the score that radio-sex, even for men alone, would be a diabolical substitute for a certain much desired and
+jealously guarded religious experience, called the immaculate union, of which I shall tell in the sequel. Well
+did the priests know that their power depended largely on their ability to induce this luscious ecstasy in their
+flock by means of ritual and other psychological techniques.
+Militarists also were strongly opposed to the new invention; for in the cheap and efficient production of
+illusory sexual embraces they saw a danger even more serious than contraception. The supply of
+cannon-fodder would decline.
+Since in all the more respectable countries broadcasting had been put under the control of retired soldiers or
+good churchmen, the new device was at first adopted only in the more commercial and the more disreputable
+states. From their broadcasting stations the embraces of popular "radio love-stars" and even of impecunious
+aristocrats were broadcast along with advertisements of patent medicines, taste-proof gloves, lottery results,
+savors, and degustatants.
+The principle of radio-brain-stimulation was soon developed much further. Programs of all the most luscious
+or piquant experiences were broadcast in all countries, and could be picked up by simple receivers that were
+within the means of all save the pariahs. Thus even the laborer and the factory hand could have the pleasures
+of a banquet without expense and subsequent repletion, the delights of proficient dancing without the trouble
+of learning the art, the thrills of motor-racing without danger. In an ice-bound northern home he could bask on
+tropical beaches, and in the tropics indulge in winter sports. Governments soon discovered that the new
+invention gave them a cheap and effective kind of power over their subjects. Slum-conditions could be
+CHAPTER 3 20
+tolerated if there was an unfailing supply of illusory luxury. Reforms distasteful to the authorities could be
+shelved if they could be represented as inimical to the national radio-system. Strikes and riots could often be
+broken by the mere threat to close down the broadcasting studios, or alternatively by flooding the ether at a
+critical moment with some saccharine novelty.
+The fact that the political Left Wing opposed the further development of radio amusements made
+Governments and the propertied classes the more ready to accept it. The Communists, for the dialectic of
+history on this curiously earth-like planet had produced a party deserving that name, strongly condemned the
+scheme. In their view it was pure Capitalist dope, calculated to prevent the otherwise inevitable dictatorship of
+the proletariat.
+The increasing opposition of the Communists made it possible to buy off the opposition of their natural
+enemies, the priests and soldiers. It was arranged that religious services should in future occupy a larger
+proportion of broadcasting time, and that a tithe of all licensing fees should be allocated to the churches. The
+offer to broadcast the immaculate union, however, was rejected by the clerics. As an additional concession it
+was agreed that all married members of the staffs of Broadcasting Authorities must, on pain of dismissal,
+prove that they had never spent a night away from their wives (or husbands). It was also agreed to weed out
+all those B.A. employees who were suspected of sympathy with such disreputable ideals as pacifism and
+freedom of expression. The soldiers were further appeased by a state-subsidy for maternity, a tax on
+bachelors, and regular broadcasting of military propaganda.
+During my last years on the Other Earth a system was invented by which a man could retire to bed for life and
+spend all his time receiving radio programs. His nourishment and all his bodily functions were attended to by
+doctors and nurses attached to the Broadcasting Authority. In place of exercise he received periodic massage.
+Participation in the scheme was at first an expensive luxury, but its inventors hoped to make it at no distant
+date available to all. It was even expected that in time medical and menial attendants would cease to be
+necessary. A vast system of automatic food-production, and distribution of liquid pabulum by means of pipes
+leading to the mouths of the recumbent subjects, would be complemented by an intricate sewage system.
+Electric massage could be applied at will by pressing a button. Medical supervision would be displaced by an
+automatic endocrine-compensation system. This would enable the condition of the patient's blood to regulate
+itself automatically by tapping from the communal drug-pipes whatever chemicals were needed for correct
+physiological balance.
+Even in the case of broadcasting itself the human element would no longer be needed, for all possible
+experiences would have been already recorded from the most exquisite living examples. These would be
+continuously broadcast in a great number of alternative programs.
+A few technicians and organizers might still be needed to superintend the system; but, properly distributed,
+their work would entail for each member of the World Broadcasting Authority's staff no more than a few
+hours of interesting activity each week.
+Children, if future generations were required, would be produced ectogenetically. The World Director of
+Broadcasting would be requested to submit psychological and physiological specifications of the ideal
+"listening breed." Infants produced in accordance with this pattern would then be educated by special radio
+programs to prepare them for adult radio life. They would never leave their cots, save to pass by stages to the
+full-sized beds of maturity. At the latter end of life, if medical science did not succeed in circumventing
+senility and death, the individual would at least be able to secure a painless end by pressing an appropriate
+button.
+Enthusiasm for this astounding project spread rapidly in all civilized countries, but certain forces of reaction
+were bitterly opposed to it. The old-fashioned religious people and the militant nationalists both affirmed that
+it was man's glory to be active. The religious held that only in self-discipline, mortification of the flesh, and
+CHAPTER 3 21
