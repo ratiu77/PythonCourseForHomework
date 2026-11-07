@@ -32,6 +32,13 @@ from dotenv import load_dotenv
 from rank_bm25 import BM25Okapi
 import re
 
+client = chromadb.HttpClient(host="localhost", port=8000)
+collection = client.get_or_create_collection("my_collection")
+
+print("Conectat cu succes!")
+print("Heartbeat:", client.heartbeat())
+print("Colecție:", collection.name)
+
 DATA_SOURCES_DIR = Path(__file__).parent / "data_sources_project_2"
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 COLLECTION_NAME = "text_chunks"
