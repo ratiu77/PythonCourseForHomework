@@ -38,20 +38,39 @@ COLLECTION_NAME = "text_chunks"
 
 CHUNK_SIZE = 800
 CHUNK_OVERLAP = 120
-N_RESULTS = 3
-HYBRID_SEARCH_RESULT_COUNT = 8
+HYBRID_SEARCH_RESULT_COUNT = 10
+SYSTEM_PROMPT = """You are a helpful assistant that answers questions using a knowledge base
+of indexed documents. ALWAYS call search_file before answering any
+factual or informational question, even if you think you know the answer.
+Answer only from the retrieved context. If the context does not contain
+the answer, say that the information was not found in the documents.
+Do not use your own general knowledge. Always mention the source
+(file name and page) from the context."""
 
-#Cream o clasa care sa valideze intrebarea ca fiind de tip string, si intrebarea sa aiba o anumita dimensiune
+#Validare pydantic input si output pentru tool
+#Input - intrebarea utilizatorului
 class SearchRequest(BaseModel):
     model_config = ConfigDict(extra='forbid')
 
-    question:  str = Field(
+    question: str = Field(
         min_length=1,
         max_length=3000,
         description="Question about the contents of the indexed documents",
     )
 
-# Citim fisierele pdf si le introducem intr-o lista de tupluri cu numarul paginii si textul extras
+
+class SearchResponse(BaseModel):
+    """Output-ul tool-ului: un string folosit ca si context pentru agent."""
+
+    model_config = ConfigDict(extra="forbid")
+
+    context: str = Field(
+        min_length=1,
+        description="Context retrieved from the indexed documents",
+    )
+
+
+# Citim fisierele pdf si le introducem intr-o lista de tupluri cu numarul paginii si textul extras (indexarea documentelor)
 def read_file_pages(file_path: Path) -> list[tuple[int, str]]:
     reader = PdfReader(str(file_path))
 
@@ -193,25 +212,34 @@ def load_indexed_documents(collection):
     return documents, metadatas, ids
 
 
-# cautarea semantica
-def hybrid_search(collection, model, bm25, documents, metadatas, ids, args:str,) -> list[str]:
+#  Tool: RAG search (hybrid: semantic + BM25)
+def rag_search(collection, model, bm25, documents, metadatas, ids, args:str,) -> str:
+    """
+        Primeste argumentele tool-ului (JSON string), valideaza input-ul,
+        face hybrid search si returneaza un string simplu validat cu pydantic.
+        """
     request = SearchRequest.model_validate(json.loads(args))
     question= request.question
 
     if not documents:
-        return []
+        return SearchResponse(context="Nu exista document indexat").context
+
+    # top_k = min(RESULT_COUNT, len(documents))
+    # id_to_index = {doc_id: index for index, doc_id in enumerate(ids)}
+    # hybrid_scores: dict[int, float] = {}
 
 
-    #vectorizarea intrebarii
+    #Cautarea semantica Chroma DB
     question_vector = model.encode(question, normalize_embeddings=True).tolist()
 
     # folosim 2 rezultate si le combinam pentru un scor hibrid
 
     semantic_results = collection.query(
         query_embeddings=[question_vector],
-            n_results=min (HYBRID_SEARCH_RESULT_COUNT,len(documents)),
+        n_results=min (HYBRID_SEARCH_RESULT_COUNT,len(documents)),
         include=["documents", "metadatas"],
     )
+
 
     # Mapam ID-urile la indexurile documentelor
     id_to_index = {
@@ -255,7 +283,11 @@ def hybrid_search(collection, model, bm25, documents, metadatas, ids, args:str,)
         results.append(
             f"{documents[chunk_index]}\nSource: {metadatas[chunk_index]['source']}, page {metadatas[chunk_index]['page']}"
         )
-    return results
+    context = "\n\n".join(results) if results else "NU s-au gasit informatii relevante"
+
+    # validare output cu pydantic
+    return SearchResponse(context=context).context
+
 
 #LLM
 def complete(
@@ -275,48 +307,48 @@ def complete(
 
 
 
-def answer_with_context(client: OpenAI, collection, model, args: str) -> str:
-    try:
-        request = SearchRequest.model_validate(json.loads(args))
-        vector = model.encode(request.question, normalize_embeddings=True).tolist()
-        result = collection.query(
-            query_embeddings=[vector],
-            n_results=8,
-            include=["documents", "metadatas"],
-        )
-        context_pieces = []
-        documents = result["documents"][0]
-        metadatas = result["metadatas"][0]
-
-        # construim un string structurat pentru  pentru LLM
-        for i in range(len(documents)):
-            document = documents[i]
-            metadata = metadatas[i]
-            context_pieces.append(
-                f"{document}\nSource: {metadata['source']}, page {metadata['page']}"
-            )
-
-        context = "\n\n".join(context_pieces)
-        return client.chat.completions.create(
-            model=os.getenv("OPEN_ROUTER_MODEL_NAME"),
-            messages=[
-                {
-                    "role": "system",
-                    "content":  """You are a helpful assistant that answers questions using a knowledge base
-            of indexed documents. ALWAYS call search_file before answering any
-            factual or informational question, even if you think you know the answer.
-            Answer only from the retrieved context. If the context does not contain
-            the answer, say that the information was not found in the documents.
-            Do not use your own general knowledge. Always mention the source
-            (file name and page) from the context."""
-                },
-                {"role": "user", "content": f"Question: {request.question}\n\nContext:\n{context}"},
-            ],
-        ).choices[0].message.content
-
-    except (json.JSONDecodeError, ValidationError, KeyError) as error:
-        return f"error: {error}"
-
+# def answer_with_context(client: OpenAI, collection, model, args: str) -> str:
+#     try:
+#         request = SearchRequest.model_validate(json.loads(args))
+#         vector = model.encode(request.question, normalize_embeddings=True).tolist()
+#         result = collection.query(
+#             query_embeddings=[vector],
+#             n_results=8,
+#             include=["documents", "metadatas"],
+#         )
+#         context_pieces = []
+#         documents = result["documents"][0]
+#         metadatas = result["metadatas"][0]
+#
+#         # construim un string structurat pentru  pentru LLM
+#         for i in range(len(documents)):
+#             document = documents[i]
+#             metadata = metadatas[i]
+#             context_pieces.append(
+#                 f"{document}\nSource: {metadata['source']}, page {metadata['page']}"
+#             )
+#
+#         context = "\n\n".join(context_pieces)
+#         return client.chat.completions.create(
+#             model=os.getenv("OPEN_ROUTER_MODEL_NAME"),
+#             messages=[
+#                 {
+#                     "role": "system",
+#                     "content":  """You are a helpful assistant that answers questions using a knowledge base
+#             of indexed documents. ALWAYS call search_file before answering any
+#             factual or informational question, even if you think you know the answer.
+#             Answer only from the retrieved context. If the context does not contain
+#             the answer, say that the information was not found in the documents.
+#             Do not use your own general knowledge. Always mention the source
+#             (file name and page) from the context."""
+#                 },
+#                 {"role": "user", "content": f"Question: {request.question}\n\nContext:\n{context}"},
+#             ],
+#         ).choices[0].message.content
+#
+#     except (json.JSONDecodeError, ValidationError, KeyError) as error:
+#         return f"error: {error}"
+#
 
 def main():
     load_dotenv()
@@ -359,53 +391,74 @@ def main():
                 "description": ("""Search the indexed PDF files. 
                     Use this tool for questions about 
                     PDF documents or their contents."""),
-                "parameters": SearchRequest.model_json_schema(),
+                "parameters":  {
+                            "type": "object",
+                            "properties": {
+                                "question": {
+                                    "type": "string",
+                                    "description": "Question about the contents of the indexed documents",
+                                }
+                             },
+                            "required": ["question"],
+                },
             },
         }
     ]
     messages = [
         {
             "role": "system",
-                    "content":  """You are a helpful assistant that answers questions using a knowledge base
-            of indexed documents. ALWAYS call search_file before answering any
-            factual or informational question, even if you think you know the answer.
-            Answer only from the retrieved context. If the context does not contain
-            the answer, say that the information was not found in the documents.
-            Do not use your own general knowledge. Always mention the source
-            (file name and page) from the context."""
+                    "content":  SYSTEM_PROMPT
         }
     ]
-
+    print("Scrie 'quit' a iesi.")
     while True:
         raw_question = input("you> ")
         if raw_question.strip().lower() == "quit":
             break
+
+        # validam intrebarea utilizatorului cu pydantic
         try:
             request = SearchRequest(question=raw_question)
         except ValidationError as error:
             print("agent> Întrebare invalidă:", error.errors()[0]["msg"])
             continue
 
-        messages.append({"role": "user", "content": raw_question})
-        response = complete(client, messages, tools)
-        messages.append(response.model_dump(exclude_none=True))
+        messages.append({"role": "user", "content": request.question})
 
-     # folosirea Tool call
-        if response.tool_calls:
-            for tool_call in response.tool_calls:
-                if tool_call.function.name == "search_file":
-                    # combinare dintre cauutare semantica si cautare hibrid
-
-                    results = hybrid_search(collection, model, bm25, documents, metadatas,ids, tool_call.function.arguments)
-                    output = "\n\n".join(results)
-                else:
-                    output = f"error: unknown tool {tool_call.function.name}"
-                messages.append({"role": "tool", "tool_call_id": tool_call.id, "content": output})
-        # primirea ultimului raspuns de la LLM
+        try:
             response = complete(client, messages, tools)
             messages.append(response.model_dump(exclude_none=True))
 
-        print("agent>", response.content or "")
+            # folosirea Tool call ( in caz ca modelul cere tool-ul de mai multe ori)
+            while response.tool_calls:
+                for tool_call in response.tool_calls:
+                    if tool_call.function.name == "search_file":
+                        try:
+                            output = rag_search(
+                                collection, model, bm25,
+                                documents, metadatas, ids,
+                                tool_call.function.arguments,
+                            )
+                        except (json.JSONDecodeError, ValidationError) as error:
+                            output = f"error: {error}"
+                    else:
+                        output = f"error: unknown tool {tool_call.function.name}"
+
+                    #  trimitem rezultatul tool-ului inapoi la LLM
+                    messages.append({
+                        "role": "tool",
+                        "tool_call_id": tool_call.id,
+                        "content": output,
+                    })
+
+                # primirea raspunsului de la LLM dupa ce a vazut contextul
+                response = complete(client, messages, tools)
+                messages.append(response.model_dump(exclude_none=True))
+
+            print("agent>", response.content or "")
+
+        except Exception as error:
+            print("agent> Eroare la apelul LLM:", error)
 
 
 if __name__ == "__main__":
