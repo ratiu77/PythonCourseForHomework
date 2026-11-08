@@ -314,48 +314,7 @@ def complete(
 
 
 
-# def answer_with_context(client: OpenAI, collection, model, args: str) -> str:
-#     try:
-#         request = SearchRequest.model_validate(json.loads(args))
-#         vector = model.encode(request.question, normalize_embeddings=True).tolist()
-#         result = collection.query(
-#             query_embeddings=[vector],
-#             n_results=8,
-#             include=["documents", "metadatas"],
-#         )
-#         context_pieces = []
-#         documents = result["documents"][0]
-#         metadatas = result["metadatas"][0]
-#
-#         # construim un string structurat pentru  pentru LLM
-#         for i in range(len(documents)):
-#             document = documents[i]
-#             metadata = metadatas[i]
-#             context_pieces.append(
-#                 f"{document}\nSource: {metadata['source']}, page {metadata['page']}"
-#             )
-#
-#         context = "\n\n".join(context_pieces)
-#         return client.chat.completions.create(
-#             model=os.getenv("OPEN_ROUTER_MODEL_NAME"),
-#             messages=[
-#                 {
-#                     "role": "system",
-#                     "content":  """You are a helpful assistant that answers questions using a knowledge base
-#             of indexed documents. ALWAYS call search_file before answering any
-#             factual or informational question, even if you think you know the answer.
-#             Answer only from the retrieved context. If the context does not contain
-#             the answer, say that the information was not found in the documents.
-#             Do not use your own general knowledge. Always mention the source
-#             (file name and page) from the context."""
-#                 },
-#                 {"role": "user", "content": f"Question: {request.question}\n\nContext:\n{context}"},
-#             ],
-#         ).choices[0].message.content
-#
-#     except (json.JSONDecodeError, ValidationError, KeyError) as error:
-#         return f"error: {error}"
-#
+
 
 def main():
     load_dotenv()
@@ -417,7 +376,7 @@ def main():
                     "content":  SYSTEM_PROMPT
         }
     ]
-    print("Scrie 'quit' a iesi.")
+    print("Scrie 'quit' pentru a iesi.")
     while True:
         raw_question = input("you> ")
         if raw_question.strip().lower() == "quit":
