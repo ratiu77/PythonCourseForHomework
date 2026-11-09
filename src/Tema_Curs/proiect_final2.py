@@ -231,10 +231,6 @@ def rag_search(collection, model, bm25, documents, metadatas, ids, args:str,) ->
     if not documents:
         return SearchResponse(context="Nu exista document indexat").context
 
-    # top_k = min(RESULT_COUNT, len(documents))
-    # id_to_index = {doc_id: index for index, doc_id in enumerate(ids)}
-    # hybrid_scores: dict[int, float] = {}
-
 
     #Cautarea semantica Chroma DB
     question_vector = model.encode(question, normalize_embeddings=True).tolist()
