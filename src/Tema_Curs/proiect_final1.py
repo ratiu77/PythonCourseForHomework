@@ -9,18 +9,18 @@ Generati metadate pentru fiecare chunk, in care puneti un "source", care este nu
 Puteti folositi collection.upsert pentru a insera documentele in Chroma DB.
 Primul program trebuie doar sa treaca prin toate documentele si sa le indexeze."""
 
-from pathlib import Path
-from pypdf import PdfReader
-from sentence_transformers import SentenceTransformer
-import chromadb
+from pathlib import Path #pentrul lucrul cu fisiere
+from pypdf import PdfReader #pentru extragerea textului din pdf
+from sentence_transformers import SentenceTransformer #pentru transformarea textului in vectori - embeddings
+import chromadb #pentru stocarea vectorilor si indexarea lor
 
 
 DATA_SOURCES_DIR = Path("data_sources_project")
 MODEL_NAME = "sentence-transformers/all-MiniLM-L6-v2"
 COLLECTION_NAME = "text_chunks"
 
-CHUNK_SIZE = 800
-CHUNK_OVERLAP = 120
+CHUNK_SIZE = 800 #dimensiunea maxima a unui chunk
+CHUNK_OVERLAP = 120 #numarul de caractere care se suprapun intre doua chunk-uri consecutive
 
 
 #1.citim toate fisierele din folderul 'data_source_project' in functie de extensia fisierului
@@ -44,14 +44,14 @@ def read_file_pages(file_path: Path) -> list[tuple[int, str]]:
 #2. definim chunk_text ca o lista de chunckuri (impartim textul in chunkuri)
 def chunk_text(text: str) -> list[str]:
     chunks = []
-    start = 0
+    start = 0 # pozitia de la care incepe extragerea primului chunk
 
     while start < len(text):
         # se parcurge textul  utilizand start ca index de start
         chunk = text[start: start + CHUNK_SIZE].strip()
         if chunk:
             chunks.append(chunk)
-        # updatare index cu un chunk
+        # pastram o parte din textutul anterior in urmatorul chunk
         start = start + CHUNK_SIZE - CHUNK_OVERLAP
 
     return chunks
@@ -62,9 +62,10 @@ def index_file(collection, model, file_path: Path) -> int:
 
     records = []
 
-    # Obtinem chunk-urile pentru fiecare pagina
+    # Obtinem chunk-urile pentru fiecare pagina, apelam functia read_file_pages pentru a extrage datele din document
     for page_number, page_text in read_file_pages(file_path):
 
+    #impartim textul fiecarei pagini in chunkuri si le numerotam si le adaugam in records
         for chunk_number, chunk in enumerate(
             chunk_text(page_text),
             start=1
@@ -81,12 +82,13 @@ def index_file(collection, model, file_path: Path) -> int:
 #4.Stergem datele preexistente in baza de date
     collection.delete(where={"source": file_path.name})
 
+#verificam daca documentul a generat cel putin un chunk
     if not records:
         print(f"Nu s-a gasit niciun text indexat{file_path.name}")
         return 0
 
 
-#5.Generam metadatele
+#5.Generam metadatele asociate fiecarui chunk
     ids = []
     documents = []
     metadatas = []
@@ -96,7 +98,7 @@ def index_file(collection, model, file_path: Path) -> int:
         page_number = record[1]
         chunk_number = record[2]
 
-        documents.append(chunk)
+        documents.append(chunk) # adaugam textul chunkului in documents
 
         metadatas.append({
             "source": file_path.name,
@@ -116,10 +118,12 @@ def index_file(collection, model, file_path: Path) -> int:
 
 
     #6. adaugam datele in ChromaDB
+    #Transformam toate chunk-urile in embeddings folosind modelul SentenceTransformer
+    #upsert adauga inregistrarile noi sau actualizeaza inregistrarile
     collection.upsert(
 
         ids=ids,
-        embeddings=model.encode(documents, normalize_embeddings=True).tolist(), #vectorizarea
+        embeddings=model.encode(documents, normalize_embeddings=True).tolist(), #normalizeaza vectorii pentru comparatii de similaritate
         documents=documents,
         metadatas=metadatas,
     )
@@ -132,14 +136,14 @@ def index_data_sources(collection, model) -> None:
     if not DATA_SOURCES_DIR.exists():
 
         DATA_SOURCES_DIR.mkdir(
-            parents=True,
-            exist_ok=True
+            parents=True,#permite crearea si a folderelor parinte
+            exist_ok=True #evita eroarea daca folderul exista deja
         )
 
         print(
             f"Folderul a fost creat: {DATA_SOURCES_DIR}"
         )
-
+         # Oprim functia deoarece folderul nou creat nu contine documente
         return
 
     files = sorted(
@@ -171,13 +175,16 @@ def index_data_sources(collection, model) -> None:
 
 def main():
 
-    model = SentenceTransformer(MODEL_NAME)
+    model = SentenceTransformer(MODEL_NAME) # init model
 
+    # cream un client chromaDB care salveaza baza de date pe disc
     collection = chromadb.PersistentClient().get_or_create_collection(
         name=COLLECTION_NAME,
         metadata={"hnsw:space": "cosine"},
     )
 
+
+    # Apelam functia care parcurge folderul si indexeaza toate documentele
     index_data_sources(collection, model)
 
 if __name__ == "__main__":
