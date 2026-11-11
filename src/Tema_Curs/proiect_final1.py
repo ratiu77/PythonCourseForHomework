@@ -10,7 +10,6 @@ Puteti folositi collection.upsert pentru a insera documentele in Chroma DB.
 Primul program trebuie doar sa treaca prin toate documentele si sa le indexeze."""
 
 from pathlib import Path
-from dotenv import load_dotenv
 from pypdf import PdfReader
 from sentence_transformers import SentenceTransformer
 import chromadb
@@ -22,7 +21,7 @@ COLLECTION_NAME = "text_chunks"
 
 CHUNK_SIZE = 800
 CHUNK_OVERLAP = 120
-N_RESULTS = 3
+
 
 #1.citim toate fisierele din folderul 'data_source_project' in functie de extensia fisierului
 def read_file_pages(file_path: Path) -> list[tuple[int, str]]:
@@ -31,7 +30,7 @@ def read_file_pages(file_path: Path) -> list[tuple[int, str]]:
     if suffix == ".pdf":
         reader = PdfReader(str(file_path))
         return [
-            (int(page_number), str(page.extract_text()) or "")
+            (page_number, page.extract_text() or "")
             for page_number, page in enumerate(reader.pages, start=1)
 
         ]
@@ -83,7 +82,7 @@ def index_file(collection, model, file_path: Path) -> int:
     collection.delete(where={"source": file_path.name})
 
     if not records:
-        f"Nu s-a gasit niciun text indexat{file_path.name}"
+        print(f"Nu s-a gasit niciun text indexat{file_path.name}")
         return 0
 
 
@@ -110,8 +109,10 @@ def index_file(collection, model, file_path: Path) -> int:
 
         )
     #pentru testare
-    print(file_path.name, ":",documents, page_number, chunk_number)
-
+    print(
+    f"Fisier: {file_path.name} | "
+    f"Numar chunk-uri: {len(documents)}"
+)
 
 
     #6. adaugam datele in ChromaDB
@@ -144,7 +145,7 @@ def index_data_sources(collection, model) -> None:
     files = sorted(
         path
         for path in DATA_SOURCES_DIR.iterdir()
-        if path.is_file()
+        if path.is_file()  and path.suffix.lower() in [".pdf", ".txt"]
     )
 
     if not files:
@@ -153,7 +154,7 @@ def index_data_sources(collection, model) -> None:
             f"Folderul {DATA_SOURCES_DIR} nu contine fisiere."
         )
 
-        return
+
 
     for file_path in files:
 
@@ -169,7 +170,6 @@ def index_data_sources(collection, model) -> None:
 
 
 def main():
-    load_dotenv()
 
     model = SentenceTransformer(MODEL_NAME)
 
